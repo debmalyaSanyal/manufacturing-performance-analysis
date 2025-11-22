@@ -43,7 +43,7 @@ After running the script, you can include the plots in this README like:
 
 ![Average vs Industry Target](figs/avg_vs_target.png)
 ```
-4. Key Findings
+### 4. Key Findings
 
 Persistent underperformance: No quarter reaches the industry target of 90.
 
@@ -53,7 +53,7 @@ Meaningful gap: The yearly average of 75.13 is ~14.87 points below the target, s
 
 Likely reactive maintenance: The volatility suggests issues are being fixed after failures instead of being predicted and prevented.
 
-5. Business Implications
+### 5. Business Implications
 
 Higher unplanned downtime and volatile throughput
 
@@ -65,7 +65,7 @@ Weaker competitiveness vs peers operating near the 90 benchmark
 
 This pattern is not only an operational issue; it represents a strategic business risk.
 
-6. Recommendation – Implement a Predictive Maintenance Program
+### 6. Recommendation – Implement a Predictive Maintenance Program
 
 To move toward the 90 target, the recommended solution is to implement a predictive maintenance program, which includes:
 
@@ -87,7 +87,7 @@ More stable and higher equipment efficiency (lifting the average from 75.13 towa
 
 Lower emergency maintenance costs and better asset utilization
 
-7. How to Run the Analysis
+### 7. How to Run the Analysis
 
 Install dependencies:
 
